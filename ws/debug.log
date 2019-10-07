@@ -1,5 +1,0 @@
-
-C:\Anaconda2\Lib\site-packages\vnpy-1.7.1-py2.7.egg\vnpy\BitmexKuaQiStrategy\compare\ws>python ws_thread.py 
-['instrument', 'margin', 'position', 'quote:XBTZ18', 'trade:XBTZ18', 'order:XBTZ18', 'execution:XBTZ18', 'quote:XBTUSD', 'trade:XBTUSD', 'order:XBTUSD', 'execution:XBTUSD']
-['wss', 'www.bitmex.com', '/realtime?subscribe=instrument,margin,position,quote:XBTZ18,trade:XBTZ18,order:XBTZ18,execution:XBTZ18,quote:XBTUSD,trade:XBTUSD,order:XBTUSD,execution:XBTUSD', '', '', '']
-终止批处理操作吗(Y/N)? 
