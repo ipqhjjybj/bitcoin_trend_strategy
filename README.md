@@ -1,0 +1,2 @@
+# bitcoin_trend_strategy
+比特币市场的简单趋势策略，在BITMEX网站运行
